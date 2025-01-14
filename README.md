@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey Erol here ^^
+I'd like to join projects to further develop my programming skills :)
 
 <!--
 **EKalippo/Ekalippo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
